@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'OneSystems GmbH Kasm Registry',
     description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    icon: 'https://www.onesystems.ch/wp-content/uploads/2018/01/logo-noframe.png',
+    listUrl: 'https://kasmregistry.onesystems.ch/',
+    contactUrl: 'https://www.onesystems.ch/kontakt/',
   },
   reactStrictMode: true,
   swcMinify: true,
